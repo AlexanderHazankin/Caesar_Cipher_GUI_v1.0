@@ -1,5 +1,5 @@
 # Caesar Cipher GUI v1.0
-This is a GUI application that allows users to encode or decode text using the Caesar cipher.
+This is a PyQt5-based GUI application that allows users to encode or decode text using the Caesar cipher.
 This is a simple implementation of the Caesar Cipher in PyQt5.
 The program includes a variety of alphabets to choose from, including
 English, Russian, Hebrew, Arabic, Greek, English alphabet in bits, and international alphabet morse code.
@@ -21,7 +21,9 @@ Requires Python 3.x to run.
 PyQt5
 
 ## Credits
-Created by Alexander Hazankin.
+The code created by Alexander Hazankin.
+
+The GUI Pytq5 implementation and modifications to the original code were done by ChatGPT.
 
 ## Contact
 For any questions or comments, you can reach me at:
